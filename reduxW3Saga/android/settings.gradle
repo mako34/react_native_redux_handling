@@ -1,0 +1,3 @@
+rootProject.name = 'reduxW3Saga'
+
+include ':app'

@@ -1,0 +1,3 @@
+rootProject.name = 'reduxW2Thunk'
+
+include ':app'

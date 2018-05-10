@@ -1,0 +1,3 @@
+rootProject.name = 'reduxW5Observable'
+
+include ':app'
